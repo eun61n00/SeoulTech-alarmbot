@@ -1,7 +1,13 @@
+# pickle files
+*.pkl
+
+# token_files
+*token*
+
 # ipynb files
 *.ipynb
 
-# pycharm
+# pycharms
 .idea/
 .DS_Store/
 
